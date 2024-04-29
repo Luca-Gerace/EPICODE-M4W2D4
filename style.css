@@ -1,0 +1,8 @@
+.book-img {
+    max-height: 300px;
+    min-height: 300px;
+}
+
+.book-title {
+    min-height: 80px;
+}
