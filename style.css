@@ -1,8 +1,13 @@
 .book-img {
-    max-height: 300px;
-    min-height: 300px;
+    max-height: 350px;
+    min-height: 350px;
 }
 
 .book-title {
     min-height: 80px;
+}
+
+.cart-img {
+    max-width: 60px;
+    max-height: 90px;
 }
